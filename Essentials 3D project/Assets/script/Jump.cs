@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Jump : MonoBehaviour
 {
-    public int forceConst = 5;
+    public int forceConst = 10;
 
     private bool canJump;
     private Rigidbody selfRigidbody;
